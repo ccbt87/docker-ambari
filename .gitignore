@@ -2,7 +2,7 @@
 ambari-*.log
 ambari-*.out
 ambari-log.ash
-jdk-7u45-linux-x64.tar.gz
+jdk-8u112-linux-x64.tar.gz
 .test-profile
 .amb
 .project
